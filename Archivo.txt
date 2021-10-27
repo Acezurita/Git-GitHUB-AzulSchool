@@ -15,3 +15,5 @@ AZUL SCHOOL ES LA ONDA
 
 Mensaje de linea Master
 Mensaje para despistar
+CAMBIO EN TEMPORIS A despues de la union con master
+CAMBIO TemporisA despues de despistar
