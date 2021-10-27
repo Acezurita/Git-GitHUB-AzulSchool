@@ -5,15 +5,21 @@ Lista de Hololive En:
     Gawr Gura
     Ouro Kronii
     Watson Amelia
+    TemporisB: Inani's
 
  Lista de Hololive: 
        Nakiri Ayame
        Tokoyami Towa
+       TemporisB: Sora senpai
        Uruha Rushia
+       
 
 AZUL SCHOOL ES LA ONDA
+<<<<<<< HEAD
 
 Mensaje de linea Master
 Mensaje para despistar
 CAMBIO EN TEMPORIS A despues de la union con master
 CAMBIO TemporisA despues de despistar
+=======
+>>>>>>> TemporisB
