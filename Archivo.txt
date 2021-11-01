@@ -15,11 +15,10 @@ Lista de Hololive En:
        
 
 AZUL SCHOOL ES LA ONDA
-<<<<<<< HEAD
 
 Mensaje de linea Master
 Mensaje para despistar
 CAMBIO EN TEMPORIS A despues de la union con master
 CAMBIO TemporisA despues de despistar
-=======
->>>>>>> TemporisB
+
+ignore
