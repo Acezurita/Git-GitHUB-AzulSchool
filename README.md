@@ -1,7 +1,7 @@
 # Listas de Hololive 
 **Se muestras los archivos que componen al proyecto**
 
-[//]:#(Abajo se ve como crear una lista enumerada)
+[//]:# (Abajo se ve como crear una lista enumerada)
 ### Lista enumerada
 1. Archivo.txt
 2. efimero1.txt
@@ -9,7 +9,7 @@
 4. invisible2.txt
 5. prevalece.txt
 
-[//]:#(Abajo se ve una lista no enumerada)
+[//]:# (Abajo se ve una lista no enumerada)
 ### Lista no enumerada
 * Archivo.txt
 * efimero.txt
